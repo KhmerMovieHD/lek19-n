@@ -30,7 +30,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://raw.githubusercontent.com/KhmerMovieHD/lek1/main/index.m3u8",
+            "https://raw.githubusercontent.com/KhmerMovieHD/lek19/main/index.m3u8",
           label: "1080p",
           default: true
         }
